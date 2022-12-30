@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: E:\Git\4-20mA_Acquisition_System\Altium\DT35_ACQ_F3_V1.2.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=dt35_acq_f3_v1.2-roundholes-plated.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=dt35_acq_f3_v1.2-slotholes-plated.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=dt35_acq_f3_v1.2-roundholes-nonplated.txt|DrillLayers=gtl,gp1,gp2,gbl

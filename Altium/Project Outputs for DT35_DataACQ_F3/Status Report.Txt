@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [DT35_DataACQ_F3.PrjPcb]
+   Generated File[DT35_ACQ_F3_V1.2-RoundHoles-Plated.TXT]
+   Generated File[DT35_ACQ_F3_V1.2-RoundHoles-NonPlated.TXT]
+   Generated File[DT35_ACQ_F3_V1.2-SlotHoles-Plated.TXT]
+   Generated File[DT35_ACQ_F3_V1.2.LDP]
+   Generated File[DT35_ACQ_F3_V1.2.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 17:49:46 On 2022/12/30
